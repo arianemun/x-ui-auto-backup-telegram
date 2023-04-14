@@ -56,7 +56,7 @@ Enter Number 1 and press enter
 
 Insert this line to cronjob file to send files every 5 hours
 ```
-0 * * * * /usr/bin/php /root/backup.php >/dev/null 2>&1
+0 * * * * /usr/bin/php /root/x-ui-auto-backup-telegram/tbot_init.php >/dev/null 2>&1
 ```
 
 Every minute	* * * * *
