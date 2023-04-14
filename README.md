@@ -20,6 +20,11 @@ chmod -R 777 /etc/x-ui/x-ui.db
 chmod -R 777 /usr/local/x-ui/bin/config.json
 ```
 
+Clone this repository
+```
+git clone https://github.com/arianemun/x-ui-auto-backup-telegram.git && cd /x-ui-auto-backup-telegram
+```
+
 **Edit tbot_init.php via nano or vim**
 
 1. Creat a bot in telegram with @botfather
