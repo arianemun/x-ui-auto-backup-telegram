@@ -22,7 +22,7 @@ chmod -R 777 /usr/local/x-ui/bin/config.json
 
 Clone this repository
 ```
-git clone https://github.com/arianemun/x-ui-auto-backup-telegram.git && cd /x-ui-auto-backup-telegram && nano tbot_init.php
+git clone https://github.com/arianemun/x-ui-auto-backup-telegram.git && nano ~/x-ui-auto-backup-telegram/tbot_init.php
 ```
 
 **Edit tbot_init.php via nano or vim**
